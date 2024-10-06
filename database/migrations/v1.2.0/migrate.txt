@@ -1,0 +1,2 @@
+php artisan migrate --path=database/migrations/v1.2.0
+php artisan migrate:rollback --path=database/migrations/v1.2.0

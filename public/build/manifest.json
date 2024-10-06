@@ -1,0 +1,12 @@
+{
+  "resources/js/app.js": {
+<<<<<<< HEAD:public/client/js/build/manifest.json
+    "file": "assets/app-DcvIXQC-.js",
+    "name": "app",
+=======
+    "file": "assets/app-CvWgViGH.js",
+>>>>>>> 989e2adc22bbab2d39b3898e79650087cf565ac3:public/build/manifest.json
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
